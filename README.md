@@ -1,1 +1,1 @@
-# Dice-Challange
+# Dice
